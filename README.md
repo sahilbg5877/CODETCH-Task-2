@@ -1,6 +1,6 @@
 
 
-# Machine Learning Model for Outcome Prediction
+# Predictive Analysis Using Machine Learning
 
 **Intern Details:**
 Name: Sahil Balkrushna Gadge
@@ -119,5 +119,4 @@ Scikit-learn
 This project successfully demonstrates the complete process of building and evaluating a machine learning classification model using a structured dataset. The methodology used can be extended to real-world educational analytics and similar prediction-based applications.
 
 ---
-
 
